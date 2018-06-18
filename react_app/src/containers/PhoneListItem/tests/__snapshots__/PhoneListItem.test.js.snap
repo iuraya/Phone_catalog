@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PhoneListItem /> render a phone Item 1`] = `
+<PhoneListItem
+  phone={
+    Object {
+      "brand": "test_brand_1",
+      "camera_description": "test_camera_description_1",
+      "description": "test_description_1",
+      "id": 1,
+      "image": "",
+      "name": "test_phone_1",
+    }
+  }
+  selectPhone={[Function]}
+  store={
+    Object {
+      "dispatch": [Function],
+      "getState": [Function],
+      "replaceReducer": [Function],
+      "subscribe": [Function],
+      Symbol(observable): [Function],
+    }
+  }
+/>
+`;
